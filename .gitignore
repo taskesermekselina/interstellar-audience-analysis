@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/raw/
+outputs/*.html
+debug_*.html
+debug_*.json

@@ -1,0 +1,5 @@
+aspect,sentiment,count,type
+Visuals,positive,200,Most Positive
+Story,positive,120,Most Positive
+Story,negative,45,Most Negative
+Visuals,negative,30,Most Negative

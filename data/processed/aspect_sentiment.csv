@@ -1,0 +1,6 @@
+aspect,sentiment,count
+Story,positive,120
+Story,negative,45
+Visuals,positive,200
+Visuals,negative,30
+Music,neutral,50

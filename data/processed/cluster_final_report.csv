@@ -1,0 +1,5 @@
+cluster,comment_count,comment_ratio,cluster_weight,imdb_rating,segment
+0,6720,0.2785723168760105,683800.3233428679,8.7,Anlamak İsteyenler
+1,9442,0.391410686896323,960780.1566969284,8.7,Fanlar / Duygusal İzleyiciler
+2,5530,0.2292418024292169,562710.6827509017,8.7,Bilim Meraklıları
+3,2431,0.1007751937984496,247368.83720930232,8.7,Video Tüketicileri

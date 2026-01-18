@@ -1,0 +1,16 @@
+google-api-python-client
+pandas
+numpy
+tqdm
+scikit-learn
+sentence-transformers
+nltk
+langdetect
+matplotlib
+seaborn
+python-dotenv
+requests
+beautifulsoup4
+playwright
+torch
+transformers
