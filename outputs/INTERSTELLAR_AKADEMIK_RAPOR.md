@@ -6,9 +6,20 @@
 
 ---
 
-## 1. YÖNETİCİ ÖZETİ (EXECUTIVE SUMMARY)
+## 1. YÖNETİCİ ÖZETİ VE PROJE KAPSAMI
 
-Bu rapor, *Interstellar* filminin dijital izleyici kitlesini, YouTube yorumları üzerinden elde edilen büyük veri seti (24.123 yorum) ve gelişmiş Doğal Dil İşleme (NLP) teknikleri kullanarak analiz etmektedir. Çalışma, izleyicileri **dört belirgin profile** ayırmış ve her bir profilin filme yaklaşımını sayısal verilerle kanıtlamıştır. Analiz sonuçları, görsel efektlerin ötesinde **hikaye derinliği** ve **duygusal bağın** izleyici sadakatinin temel taşları olduğunu ortaya koymaktadır. Rapor, pazarlama stratejilerine yön verecek kritik görsellerin detaylı yorumlanması üzerine kurgulanmıştır.
+### 1.1. Projenin Amacı
+Bu çalışmanın temel amacı, *Interstellar* gibi kültleşmiş bir bilim kurgu eserinin izleyici üzerindeki etkisini **"Büyük Veri" (Big Data)** perspektifiyle incelemek ve bu verilerden yola çıkarak uygulanabilir, veri odaklı bir **dijital film pazarlama stratejisi** geliştirmektir. Akademik bir yaklaşımla, izleyicilerin sadece ne izlediği değil, *neden* ve *nasıl* etkilendiği (motivasyon analizi) ortaya konmuştur.
+
+### 1.2. Veri Seti ve Çalışma Büyüklüğü
+Analiz, toplamda **24.145 adet bağımsız kullanıcı geri bildirimine** dayanmaktadır. Bu hacim, geleneksel anket yöntemlerinin çok ötesinde, istatistiksel olarak anlamlı ve güvenilir sonuçlar sunar.
+
+*   **YouTube Verisi:** 24.123 adet yorum (Genel izleyici, kısa ve anlık tepkiler).
+*   **IMDb Verisi:** 22 adet detaylı inceleme (Sinefil kitlesi, uzun ve teknik eleştiriler).
+*   **Kullanılan Teknoloji:** Veriler, Python tabanlı yapay zeka algoritmaları (NLP, K-Means Clustering) ile işlenerek 4 farklı izleyici profili modellenmiştir.
+
+### 1.3. Yönetici Özeti (Sonuç)
+Analiz sonuçları, görsel efektlerin ötesinde **hikaye derinliği** ve **duygusal bağın** izleyici sadakatinin temel taşları olduğunu ortaya koymaktadır. Rapor, pazarlama stratejilerine yön verecek kritik görsellerin detaylı yorumlanması üzerine kurgulanmıştır.
 
 ---
 
