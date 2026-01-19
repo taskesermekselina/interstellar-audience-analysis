@@ -2,11 +2,11 @@
 
 **Tarih:** 18 Ocak 2026  
 **Hazırlayan:** Mekselina Taşkeser  
-**Konu:** Büyük Veri ve Makine Öğrenmesi ile İzleyici Eğilimlerinin ve Motivasyonlarının Derinlemesine Analizi
+**Konu:** Büyük Veri ve Kümeleme Yöntemleri ile Sinema İzleyici Segmentasyonu ve İzleyici Motivasyonlarının Analizi
 
 ---
 
-## 1. YÖNETİCİ ÖZETİ VE PROJE KAPSAMI
+## 1. PROJE ÖZETİ VE KAPSAMI
 
 ### 1.1. Projenin Amacı
 Bu çalışmanın temel amacı, *Interstellar* gibi kültleşmiş bir bilim kurgu eserinin izleyici üzerindeki etkisini **"Büyük Veri" (Big Data)** perspektifiyle incelemek ve bu verilerden yola çıkarak uygulanabilir, veri odaklı bir **dijital film pazarlama stratejisi** geliştirmektir. Akademik bir yaklaşımla, izleyicilerin sadece ne izlediği değil, *neden* ve *nasıl* etkilendiği (motivasyon analizi) ortaya konmuştur.
@@ -18,7 +18,7 @@ Analiz, toplamda **24.145 adet bağımsız kullanıcı geri bildirimine** dayanm
 *   **IMDb Verisi:** 50 adet "en faydalı" olarak oylanmış detaylı inceleme (Sinefil kitlesi, uzun ve teknik eleştiriler).
 *   **Kullanılan Teknoloji:** Veriler, Python tabanlı yapay zeka algoritmaları (NLP, K-Means Clustering) ile işlenerek 4 farklı izleyici profili modellenmiştir.
 
-### 1.3. Yönetici Özeti (Sonuç)
+### 1.3. Özet (Sonuç)
 Analiz sonuçları, görsel efektlerin ötesinde **hikaye derinliği** ve **duygusal bağın** izleyici sadakatinin temel taşları olduğunu ortaya koymaktadır. Rapor, pazarlama stratejilerine yön verecek kritik görsellerin detaylı yorumlanması üzerine kurgulanmıştır.
 
 ---
