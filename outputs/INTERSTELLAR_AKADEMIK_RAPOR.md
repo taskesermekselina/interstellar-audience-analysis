@@ -113,9 +113,9 @@ Bu ısı haritası, hangi kümenin hangi konuyu daha yoğun konuştuğunu görse
 ![Küme İlişki Isı Haritası](cluster_aspect_heatmap.png)
 
 **Görsel Analizi ve Stratejik Çıkarımlar:**
-*   **Cluster 2 (Bilim Meraklıları) ve "Science/Physics":** Haritada bu kesişimin koyu renkli olması, bu grubun filmi bir "fizik dersi" gibi izlediğini doğrular. Pazarlamada *Kip Thorne* referansları bu gruba yöneliktir.
-*   **Cluster 1 (Fanlar) ve "Emotional Impact":** Fan grubunda "Music" ve "Emotional Impact" sütunlarının yoğunluğu, Hans Zimmer'in müziklerinin ve baba-kız dramının bu kitleyi bir arada tutan tutkal olduğunu gösterir.
-*   **Cluster 0 (Anlamak İsteyenler) ve "Plot/Story":** Bu grupta hikaye kurgusuna odaklanma yüksektir, çünkü ana problemleri hikayeyi çözmektir.
+*   **Cluster 1 (Fanlar) ve "Ending":** Isı haritasında bu grubun en yoğun konuştuğu konunun **"Ending" (Final)** olduğu görülmektedir. Fanlar, filmin finalini sadece bir olay örgüsü olarak değil, duygusal bir doruk noktası olarak tartışmaktadır.
+*   **Cluster 0 (Anlamak İsteyenler) ve "Ending & Story":** Bu kümede hem **"Ending"** hem de **"Story & Plot"** sütunlarında yüksek yoğunluk dikkat çeker. Bu durum, grubun temel motivasyonunun filmin kurgusunu ve karmaşık finalini çözmek olduğunu kanıtlar.
+*   **Cluster 3 (Görselciler) ve "Visual Effects":** Haritada **"Visual Effects & CGI"** alanında en belirgin aktiviteyi gösteren gruptur. Bu kitle, hikaye derinliğinden ziyade filmin görsel ihtişamına (uzay sahneleri, kara delik tasvirleri) odaklanmıştır.
 
 ---
 
@@ -156,9 +156,9 @@ Tüm yorumlar havuzunda, filmin temel bileşenlerine (Senaryo, Oyunculuk, Müzik
 ![Pozitif Yönler](positive_aspects.png)
 
 **Görsel Yorumu:**
-*   Görselde **"Visuals", "Soundtrack", "Masterpiece"** kelimelerinin baskınlığı görülmektedir.
-*   **Görsel Şölen:** Özellikle kara delik (Gargantua) ve solucan deliği tasvirleri, bilimsel gerçekliğe uygunluğu ve görsel ihtişamıyla izleyicileri derinden etkilemiştir. Kip Thorne danışmanlığında hazırlanan bu sahneler, sinema tarihinde bir mihenk taşı olarak kabul edilmektedir.
-*   **Duygusal Derinlik:** İzleyiciler filmi sadece bir bilim kurgu değil, aynı zamanda baba-kız ilişkisi üzerinden şekillenen derin bir dram olarak tanımlamaktadır. Cooper'ın kızını bırakıp gitmesi ve geri dönme çabası, filmin "Emotional" (Duygusal) yönünü güçlendiren en önemli unsurdur.
+*   **"Visuals" (Görsellik):** Kelime bulutundaki en baskın terimdir. İzleyiciler, *Interstellar*'ı öncelikle "görsel bir devrim" olarak nitelendirmektedir. Kara delik simülasyonları ve uzay atmosferi, beğeninin merkezindedir.
+*   **"Soundtrack" (Müzik):** Hans Zimmer'in müziği, "Visuals"tan hemen sonra gelen en güçlü pozitif değişkendir. İzleyici deneyiminin ayrılmaz bir parçası olarak görülmektedir.
+*   **"Masterpiece" (Şaheser):** Filmin sadece "iyi" değil, sinema sanatında bir "zirve" olarak tanımlandığını gösteren, frekansı yüksek bir nitelemedir.
 
 ### 5.3. En Çok Eleştirilen Unsurlar (Negatif Yönler)
 
@@ -166,9 +166,9 @@ Tüm yorumlar havuzunda, filmin temel bileşenlerine (Senaryo, Oyunculuk, Müzik
 ![Negatif Yönler](negative_aspects.png)
 
 **Görsel Yorumu:**
-*   Görselde **"Confusing", "Long", "Ending"** kelimeleri öne çıkmaktadır. Filmin son kısmındaki "Tesseract" sahnesi ve sevginin fiziksel bir boyuta dönüşmesi, bazı izleyiciler tarafından bilimsel temelden uzak ve kafa karıştırıcı bulunmuştur.
-*   **Ses Miksajı Sorunu:** Birçok izleyici, Hans Zimmer'in müziklerinin diyaloğu bastırdığını ve karakterlerin ne dediğini duymakta zorlandıklarını belirtmiştir. "Loud" (Gürültülü) eleştirisi, özellikle sinema gösterimlerinde bu teknik dengesizliğe işaret etmektedir.
-*   **Tempo:** Yaklaşık 3 saatlik süresi ve ilk bir saatinin yavaş ilerlemesi, aksiyon bekleyen izleyiciler ("Boring") için zorlayıcı bulunmuştur.
+*   **"Confusing" (Kafa Karıştırıcı):** Negatif yorumların merkezinde yer alır. Özellikle kuantum fiziği ve zaman paradoksları, genel izleyici için bir bariyer oluşturmuştur.
+*   **"Long" (Uzun):** Filmin süresi, özellikle hikayenin yavaş açıldığı ilk bölüm, sabırsız izleyiciler tarafından eleştirilmiştir.
+*   **"Ending" (Final):** İlginç bir şekilde "Ending" kelimesi hem pozitif (Cluster 1 için) hem de negatif (genel eleştiri) tarafta yer almaktadır. Negatif bağlamda, finalin "fazla soyut" veya "bilimsel gerçeklikten kopuk" (sevgi gücü) bulunması eleştirilmiştir.
 
 ---
 
