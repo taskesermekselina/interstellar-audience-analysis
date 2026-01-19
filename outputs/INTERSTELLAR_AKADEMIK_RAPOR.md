@@ -42,6 +42,18 @@ Analiz edilen ana veri seti, aşağıdaki yüksek etkileşimli YouTube videolar�
 | **Interstellar Main Theme - Hans Zimmer** | `BHsFzDON6pA` | [İzle](https://www.youtube.com/watch?v=BHsFzDON6pA) |
 | **Interstellar Review (Deep Dive)** | `qhW1HfSuPVQ` | [İzle](https://www.youtube.com/watch?v=qhW1HfSuPVQ) |
 
+
+### 2.2. Veri Ön İşleme Adımları (Data Preprocessing)
+
+Veri setinin analize uygun hale getirilmesi için aşağıdaki doğal dil işleme (NLP) prosedürleri uygulanmıştır:
+
+1.  **Dil Tespiti ve Çeviri (Language Detection & Translation):** Veri setindeki farklı dillerdeki yorumlar (örneğin Türkçe, İspanyolca), analiz tutarlılığını sağlamak amacıyla otomatik olarak **İngilizce'ye çevrilmiştir**.
+2.  **Veri Temizliği (Data Cleaning):** Yorumlardaki HTML etiketleri, URL bağlantıları ve teknik gürültüler temizlenmiştir.
+3.  **Küçük Harf Dönüşümü (Lowercasing):** Kelime tekrarını önlemek ve tutarlılık sağlamak amacıyla tüm metinler küçük harfe dönüştürülmüştür (örneğin "Film" -> "film").
+4.  **Etkisiz Kelimelerin Çıkarılması (Stopwords Removal):** Anlam taşımayan bağlaçlar (the, is, and, ve, ile vb.) analizden çıkarılarak içerik zenginleştirilmiştir.
+5.  **Tokenizasyon ve Lemmatizasyon:** Cümleler kelimelerine ayrılmış (tokenization) ve kelimeler kök hallerine indirgenmiştir (lemmatization) (örneğin "loved" -> "love").
+6.  **Emoji Analizi:** Duygu durumunu belirten emojiler korunarak metin ifadesine dahil edilmiştir.
+
 ---
 
 ## 3. İZLEYİCİ SEGMENTASYONU VE KÜME YAPISI
