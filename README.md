@@ -115,7 +115,9 @@ Bu ısı haritası, hangi kümenin hangi konuyu daha yoğun konuştuğunu görse
 **Görsel Analizi ve Stratejik Çıkarımlar:**
 *   **Cluster 1 (Fanlar) ve "Ending":** Isı haritasında bu grubun en yoğun konuştuğu konunun **"Ending" (Final)** olduğu görülmektedir. Fanlar, filmin finalini sadece bir olay örgüsü olarak değil, duygusal bir doruk noktası olarak tartışmaktadır.
 *   **Cluster 0 (Anlamak İsteyenler) ve "Ending & Story":** Bu kümede hem **"Ending"** hem de **"Story & Plot"** sütunlarında yüksek yoğunluk dikkat çeker. Bu durum, grubun temel motivasyonunun filmin kurgusunu ve karmaşık finalini çözmek olduğunu kanıtlar.
+*   **Cluster 2 (Bilim Meraklıları) ve "Science/Physics"**: Haritada bu kesişimin koyu renkli olması, bu grubun filmi bir "fizik dersi" gibi izlediğini doğrular. Pazarlamada Kip Thorne referansları bu gruba yöneliktir.
 *   **Cluster 3 (Görselciler) ve "Visual Effects":** Haritada **"Visual Effects & CGI"** alanında en belirgin aktiviteyi gösteren gruptur. Bu kitle, hikaye derinliğinden ziyade filmin görsel ihtişamına (uzay sahneleri, kara delik tasvirleri) odaklanmıştır.
+
 
 ---
 
