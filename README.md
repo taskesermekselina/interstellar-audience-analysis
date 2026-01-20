@@ -239,4 +239,6 @@ Görsel destekli bu kapsamlı analiz, *Interstellar*'ın başarısının tek bir
 **Interstellar**, sadece bir bilim kurgu filmi değil, izleyicilerini hem duygusal hem de entelektüel düzeyde yakalayan nadir bir sinema olayıdır. Büyük veri analiziyle ortaya çıkan "Fan" ve "Bilim Meraklısı" kümeleri, filmin iki kutuplu başarısını kanıtlamaktadır: Bir yanda kalplere dokunan **baba-kız dramı**, diğer yanda zihinleri zorlayan **astrofizik teorileri**.
 
 Bu raporun ortaya koyduğu en net sonuç şudur: **Interstellar doğru bir pazarlama stratejisiyle, sadece "izlenip geçilen" bir film olmaktan çıkıp, yıllarca konuşulan ve tekrar tüketilen bir "kültür ürününe" dönüşme potansiyeline sahiptir.**
+
+
 **YouTube videosuna linkten ulaşabilirsiniz https://www.youtube.com/watch?v=Ogb4n2VUVAY**
